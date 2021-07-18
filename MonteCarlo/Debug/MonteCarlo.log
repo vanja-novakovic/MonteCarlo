@@ -1,0 +1,8 @@
+﻿  MonteCarlo.cpp
+C:\Users\User\Desktop\MonteCarlo\MonteCarlo\MonteCarlo.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\MonteCarlo\MonteCarlo\MonteCarlo.cpp(74,44): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\User\Desktop\MonteCarlo\MonteCarlo\MonteCarlo.cpp(84,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\MonteCarlo\MonteCarlo\MonteCarlo.cpp(102,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\MonteCarlo\MonteCarlo\MonteCarlo.cpp(106,58): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\User\Desktop\MonteCarlo\MonteCarlo\MonteCarlo.cpp(113,33): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+  MonteCarlo.vcxproj -> C:\Users\User\Desktop\MonteCarlo\Debug\MonteCarlo.exe
